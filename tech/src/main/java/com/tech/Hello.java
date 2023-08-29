@@ -7,5 +7,8 @@ public class Hello {
 		System.out.println("manasa nayak");
 
 	}
+	public void m2() {
+		System.out.println("m2 () aded");
+	}
 
 }
