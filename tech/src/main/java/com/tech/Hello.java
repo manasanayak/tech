@@ -7,5 +7,9 @@ public class Hello {
 		System.out.println("manasa nayak");
 
 	}
+	public void m1() {
+		System.out.println("manasa nayak hello");
+
+	}
 
 }
