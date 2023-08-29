@@ -7,7 +7,7 @@ public class Test {
 			System.out.println("hellovxzgf");
 	}
 	public void m1() {
-		
+		System.out.println("hellovxzgf");
 	}
 
 }
