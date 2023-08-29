@@ -10,6 +10,8 @@ public class Hello {
 
 	public void m2() {
 		System.out.println("m2 () aded");
+		System.out.println("m2 () aded");
+		System.out.println("m2 () aded");
 	}
 
 }
