@@ -22,4 +22,11 @@ public class Hello {
 		System.out.println("m2 () aded");
 
 	}
+	public void m4() {
+		System.out.println("m2 () aded");
+
+		System.out.println("m2 () aded");
+		System.out.println("m2 () aded");
+
+	}
 }
